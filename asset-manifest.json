@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/discount_v2/static/css/main.603b2e04.css",
+    "main.js": "/discount_v2/static/js/main.01966420.js",
+    "index.html": "/discount_v2/index.html",
+    "main.603b2e04.css.map": "/discount_v2/static/css/main.603b2e04.css.map",
+    "main.01966420.js.map": "/discount_v2/static/js/main.01966420.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.603b2e04.css",
+    "static/js/main.01966420.js"
+  ]
+}
