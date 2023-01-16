@@ -71,10 +71,6 @@ function App() {
 
   return (
     <div className="bg-neutral-500 min-h-screen flex flex-col pt-5 items-center gap-2">
-      {/* <h1 className="text-3xl">
-        Discount!
-      </h1> */}
-
       {new Array(totalSize).fill(null).map((_product, index) => (
         <section key={index}>
           <p className=''>Product {index + 1}</p>
